@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/zenjara/matas_service_generator.git
+  revision: ae8fd24f62c2671c37d737892191967e14e654aa
+  branch: master
+  specs:
+    matas_service_generator (0.1.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -184,6 +191,7 @@ DEPENDENCIES
   jquery-rails
   kaminari
   listen (~> 3.0.5)
+  matas_service_generator!
   mysql2 (>= 0.3.18, < 0.5)
   pry-byebug
   puma (~> 3.0)
